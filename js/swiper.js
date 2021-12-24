@@ -7,7 +7,7 @@ const headSwiper = new Swiper('.idc-head__swiper .swiper', {
     // Default parameters
     slidesPerView: 1,
     spaceBetween: 0,
-    // autoplay: true,
+    autoplay: true,
 
 });
 
