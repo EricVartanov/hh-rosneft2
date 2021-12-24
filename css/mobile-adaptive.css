@@ -14,7 +14,7 @@
         padding-bottom: 30px;
     }
     .idc-head__items {
-        margin-top: 35px;
+        margin-top: 34px;
     }
     .idc-comfort__swiper .swiper-slide,
     .idc-swiper__block {
@@ -61,7 +61,7 @@
         height: 40px;
     }
     .idc-head__swiper .swiper-slide {
-        height: 145vw;
+        height: auto;
     }
     /* *************about************ */
     .idc-about .idc-list__item {

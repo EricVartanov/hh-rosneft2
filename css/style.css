@@ -92,6 +92,7 @@ svg {
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;
+    overflow: hidden;
 }
 
 .swiper-slide[style^=background-image] {
@@ -154,7 +155,7 @@ svg {
 }
 
 .idc-head__swiper .swiper-slide {
-    height: 495px;
+    height: 100%;
     position: relative;
 }
 
